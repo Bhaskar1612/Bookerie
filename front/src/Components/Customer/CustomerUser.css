@@ -1,0 +1,66 @@
+.customer-container {
+    font-size: large;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.customer-heading {
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.book-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.book-item {
+    margin-bottom: 20px;
+}
+
+.book-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: darkgreen;
+}
+
+.book-actions {
+    margin-top: 10px;
+}
+
+.book-quantity-label {
+    margin-right: 10px;
+}
+
+.book-quantity-input {
+    width: 50px;
+}
+
+.add-to-cart-button {
+   
+            display: inline-block;
+            margin: 0 10px;
+            padding: 10px 20px;
+            text-decoration: none;
+            color: #fff;
+            background-color: #007bff;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+.cart-link {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #ff0015;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.add-to-cart-button:hover {
+    background-color: #0056b3;
+}
