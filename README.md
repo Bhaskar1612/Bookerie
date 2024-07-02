@@ -75,18 +75,18 @@ sh
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
--Fork the repository.
--Create a new branch:
+- Fork the repository.
+- Create a new branch:
 sh
--git checkout -b feature/your-feature-name
--Make your changes.
--Commit your changes:
+- git checkout -b feature/your-feature-name
+- Make your changes.
+- Commit your changes:
 sh
--git commit -m 'Add some feature'
--Push to the branch:
+- git commit -m 'Add some feature'
+- Push to the branch:
 sh
--git push origin feature/your-feature-name
--Open a pull request.
+- git push origin feature/your-feature-name
+- Open a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
