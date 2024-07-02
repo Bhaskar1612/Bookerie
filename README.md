@@ -94,4 +94,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 Bhaskar - bhaskarkashyap1612@gmail.com
 
-## Project Link: https://github.com/yourusername/Bookerie
+## Project Link: https://github.com/Bhaskar1612/Bookerie
