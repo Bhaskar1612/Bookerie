@@ -2,15 +2,15 @@
 Bookerie is an online bookstore application that allows customers to browse and purchase books, while administrators can manage books, delivery partners, supplies, and complete orders. The backend is built using FastAPI with SQLite, and the frontend is developed using React.js.
 
 ## Table of Contents
-Features
-Demo
-Installation
-Usage
-API Endpoints
-Technologies Used
-Contributing
-License
-Contact
+- Features
+- Demo
+- Installation
+- Usage
+- API Endpoints
+- Technologies Used
+- Contributing
+- License
+- Contact
 
 
 ## Features
