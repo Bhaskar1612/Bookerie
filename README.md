@@ -14,10 +14,9 @@ Bookerie is an online bookstore application that allows customers to browse and 
 
 
 ## Features
-Admin and customer authentication
-Admin can add books, delivery partners, supplies, and complete orders
-Customers can add books to their cart and place orders
-Browsing and searching for books
+- Admin and customer authentication
+- Admin can add books, delivery partners, supplies, and complete orders
+- Customers can add books to their cart and place orders
 
 
 ## Installation
@@ -69,9 +68,9 @@ sh
 
 
 ### Technologies Used
--Backend: FastAPI, SQLite
--Frontend: React.js, HTML, CSS, JavaScript
--Middleware: CORSMiddleware
+- Backend: FastAPI, SQLite
+- Frontend: React.js, HTML, CSS, JavaScript
+- Middleware: CORSMiddleware
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
